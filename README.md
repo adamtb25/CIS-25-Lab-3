@@ -1,4 +1,4 @@
-# CIS-25-Lab-3
+# CIS-25-Lab-3-Pt1
 1) Output for result 1 is 2. It isn't 2.4 because it's integer division.
 2) The output for result 2 is 2. The % operator computes the integer division and returns the remainder.
 3) Result 3 yields an output of 3.333333
